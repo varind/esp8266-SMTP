@@ -1,5 +1,6 @@
 # esp8266-SMTP
-Use esp8266 to send emails or text messages
+Use esp8266 to send emails or text messages.
+Sends the email when your button connects pin 0 to ground.
 
   esp8266 Email & Text Messge
   by Ben Lipsey www.varind.com 2016. This code is public domain, enjoy!
