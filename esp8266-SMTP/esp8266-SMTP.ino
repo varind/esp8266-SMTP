@@ -1,6 +1,7 @@
 /*
   esp8266 Email & Text Messge
   by Ben Lipsey www.varind.com 2016. This code is public domain, enjoy!
+  github: http://github.com/varind/esp8266-SMTP
 
   Convert your user/pass to base 64:
   https://www.base64decode.org
